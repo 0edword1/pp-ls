@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: pp
-subtitle: ''
+title: pp的博客
+subtitle: "好好学习，争当做人！"
 description: ''
 keywords:
-author: John Doe
+author: pp
 language: zh-tw
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.io
+url: https://pp-ls.netlify.app
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
